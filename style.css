@@ -1,0 +1,116 @@
+/* General resets and styling */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+  }
+  
+  h2 {
+    font-size: 1.4rem;
+    margin-bottom: 10px;
+  }
+  
+  h2 span {
+    color: #8b5cf6;
+  }
+  
+  p {
+    font-size: 1rem;
+    color: #666;
+  }
+  
+  button {
+    background-color: #ffd500;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: #000;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+  }
+  
+  /* Grid Layout */
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: auto;
+    gap: 20px;
+    padding: 20px;
+    max-width: 1200px;
+    margin: auto;
+  }
+  
+  .grid-item {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  /* Specific styling for each grid item */
+  .content-schedule {
+    background-color: #ffe8d5;
+    grid-column: span 1;
+  }
+  
+  .ai-boost {
+    background-color: #8b5cf6;
+    color: #fff;
+    grid-column: span 2;
+  }
+  
+  .post-timing {
+    background-color: #ede7f6;
+    grid-column: span 1;
+  }
+  
+  .ai-content {
+    background-color: #ffd500;
+    grid-column: span 1;
+  }
+  
+  .multi-accounts {
+    background-color: #fff;
+    grid-column: span 1;
+  }
+  
+  .schedule-consistency {
+    background-color: #ffd500;
+    grid-column: span 1;
+  }
+  
+  .audience-growth {
+    background-color: #fff;
+    grid-column: span 1;
+  }
+  
+  .follower-growth {
+    background-color: #8b5cf6;
+    color: #fff;
+    grid-column: span 2;
+  }
+  
+  /* Responsive behavior */
+  @media (max-width: 768px) {
+    .grid-container {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .grid-container {
+      grid-template-columns: 1fr;
+    }
+  }
