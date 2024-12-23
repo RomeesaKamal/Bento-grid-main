@@ -1,6 +1,8 @@
-# Frontend Mentor - Bento grid solution
+![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue)
 
-This is a solution to the [Bento grid challenge on Frontend Mentor](https://romeesakamal.github.io/Bento-grid-main/). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+# Bento Grid
+
+The Bento Grid is a clean and responsive web layout crafted with HTML and CSS. It features a modern grid-based design that organizes content beautifully, making it ideal for showcasing diverse information in a structured and visually appealing manner.
 
 ## Table of contents
 
@@ -16,15 +18,36 @@ This is a solution to the [Bento grid challenge on Frontend Mentor](https://rome
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+## Features
+
+- **Responsive Design**: Adapts seamlessly to different screen sizes, ensuring an optimal user experience on desktops, tablets, and mobile devices.
+- **CSS Grid Layout**: Utilizes CSS Grid for a flexible and modern layout structure.
+- **Customizable Grid Cards**: Each card is uniquely styled and easily customizable to fit various content types.
+- **Lightweight and Fast**: Built entirely with HTML and CSS, making it lightweight and quick to load.
+- **Modern Aesthetics**: Clean, minimalistic design with balanced spacing and visually appealing color schemes.
+- **User-Friendly**: Simple and intuitive structure, making it easy to navigate and use.
+
+### Getting Started
+
+To get a local copy up and running follow these simple steps.
+
+Prerequisites
+VIsual Studio Code.
+A Web Browser (preferably Brave)
+
+### Setup
+
+Clone the GitHub Repository
+
+- git clone "https://github.com/RomeesaKamal/Bento-grid-main.git"
+
+### Usage
+
+Start your server by clicking Go Live
 
 ## Overview
 
-### The challenge
-
-Users should be able to:
-
-- View the optimal layout for the interface depending on their device's screen size
+The **Bento Grid** is a stylish and responsive grid layout designed to present content in an organized and visually engaging way. Built entirely using HTML and CSS, it demonstrates the power of CSS Grid in creating clean and modern designs. Whether used for a portfolio, a gallery, or a feature showcase, the Bento Grid layout offers a perfect balance of aesthetics and functionality.
 
 ### Screenshot
 
@@ -40,71 +63,56 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [ solution URL here](https://github.com/RomeesaKamal/Bento-grid-main/)
+- Solution URL: [ solution URL here](https://github.com/RomeesaKamal/Bento-grid-main)
 - Live Site URL: [ live site URL here](https://romeesakamal.github.io/Bento-grid-main/)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+**HTML & CSS best practices:** Correct use of tags, elements, properties and syntax and fetching od API.
 
-### What I learned
+**GitHub flow:** Correct use of Branches for deployment and features development.
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+### Lessons Learned
+- **Mastery of CSS Grid**: Gained in-depth knowledge of creating complex and responsive layouts using CSS Grid.
+- **Responsive Design Principles**: Improved understanding of designing layouts that adapt seamlessly to different screen sizes.
+- **Attention to Visual Hierarchy**: Enhanced skills in balancing spacing, alignment, and proportions for a clean and professional design.
+- **Practical Problem-Solving**: Overcame challenges in achieving consistent styling across devices and browsers.
+- **Project Organization**: Learned to structure and document projects effectively for better scalability and collaboration.
 
-To see how you can add code snippets, see below:
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+## 🌎 Live Demo:
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+- [Live Demo Link](https://romeesakamal.github.io/Bento-grid-main/)
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
-### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
-- Website - [Romeesa kamal](https://romeesakamal.github.io/Bento-grid-main/)
-- Frontend Mentor - [@Romeesakamal](https://www.frontendmentor.io/profile/RomeesaKamal)
+### 👤 **Romeesa Kamal**
 
+- GitHub: [@kamalromeesa](https://github.com/RomeesaKamal/)
+- Fronted Mentor: [@Romeesakamal](https://www.frontendmentor.io/profile/RomeesaKamal)
+- Linkedin: [@Romeesakamal](https://www.linkedin.com/in/romeesa-kamal-7864b8342/)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the issues page.
+
+## Show your support
+
+Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+- Thanks to the Mujeeb ur Rehman for the great curriculum.
+- Thanks to the Code Reviewer(s) for the insightful feedback.
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+## 📝 License
+
+This project is MIT licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
